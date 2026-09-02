@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: unimarket
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server/main.py
+    healthCheckPath: /health
+    envVars:
+      - key: APP_BASE_URL
+        sync: false
+      - key: MPESA_ENV
+        value: production
+      - key: MPESA_CONSUMER_KEY
+        sync: false
+      - key: MPESA_CONSUMER_SECRET
+        sync: false
+      - key: MPESA_SHORTCODE
+        sync: false
+      - key: MPESA_PASSKEY
+        sync: false
+      - key: MPESA_CALLBACK_URL
+        sync: false
