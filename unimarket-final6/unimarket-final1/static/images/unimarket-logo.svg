@@ -1,0 +1,13 @@
+<svg width="240" height="72" viewBox="0 0 240 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">UniMarket logo</title>
+  <desc id="desc">Gold and black UniMarket marketplace logo.</desc>
+  <rect x="2" y="2" width="68" height="68" rx="16" fill="#0B0B0B"/>
+  <path d="M22 32c0-11 6-18 14-18s14 7 14 18" stroke="#D6A21E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M18 29h36l-3 25H21l-3-25Z" fill="#D6A21E"/>
+  <path d="M28 36v7c0 6 3 10 8 10s8-4 8-10v-7" stroke="#0B0B0B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M88 21v18c0 10 6 16 16 16s16-6 16-16V21h-9v18c0 5-3 8-7 8s-7-3-7-8V21h-9Z" fill="#0B0B0B"/>
+  <path d="M128 55V21h8l15 19V21h9v34h-8l-15-19v19h-9Z" fill="#0B0B0B"/>
+  <path d="M168 55V21h9v34h-9Z" fill="#0B0B0B"/>
+  <path d="M184 55V21h10l10 17 10-17h10v34h-9V35l-8 14h-6l-8-14v20h-9Z" fill="#0B0B0B"/>
+  <path d="M88 64h136" stroke="#D6A21E" stroke-width="4" stroke-linecap="round"/>
+</svg>
